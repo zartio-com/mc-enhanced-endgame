@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "better-endgame:item/empty_warp_rune"
+  }
+}

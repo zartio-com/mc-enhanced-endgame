@@ -1,0 +1,47 @@
+{
+	"schemaVersion": 1,
+	"id": "better-endgame",
+	"version": "${version}",
+	"name": "Better End(game)",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"iTokajo"
+	],
+	"contributors": [
+		"rataj616"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "All rights reserved",
+	"icon": "assets/better-endgame/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.zartio.betterendgame.BetterEndgame"
+		],
+		"client": [
+			"com.zartio.betterendgame.BetterEndgameClient"
+		],
+		"fabric-datagen": [
+			"com.zartio.betterendgame.BetterEndgameDataGenerator"
+		]
+	},
+	"mixins": [
+		"better-endgame.mixins.json",
+		{
+			"config": "better-endgame.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+
+	}
+}

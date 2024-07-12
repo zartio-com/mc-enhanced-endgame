@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "com.zartio.betterendgame.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"item.EyeOfEnderItemMixin",
+		"worldgen.EndCityGeneratorMixin",
+		"worldgen.SimpleStructurePieceAccessorMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

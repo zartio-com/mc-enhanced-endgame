@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "charged=false": { "model": "better-endgame:block/warpstone_block" },
+    "charged=true": { "model": "better-endgame:block/warpstone_block_charged" }
+  }
+}

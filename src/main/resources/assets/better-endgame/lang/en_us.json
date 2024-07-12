@@ -1,0 +1,30 @@
+{
+  "block.better-endgame.warpstone_block": "Warpstone",
+
+  "item.better-endgame.unstable_matter": "Unstable matter",
+  "item.better-endgame.unstable_matter.tooltip": "Requires something heavy to stabilize it",
+
+  "item.better-endgame.empty_warp_rune": "Empty warp rune",
+  "item.better-endgame.inscribed_warp_rune": "Inscribed warp rune",
+
+  "item.minecraft.potion.effect.chorus_essence": "Chorus essence",
+  "item.minecraft.splash_potion.effect.chorus_essence": "Splash Chorus essence",
+  "item.minecraft.lingering_potion.effect.chorus_essence": "Lingering Chorus essence",
+  "item.minecraft.tipped_arrow.effect.chorus_essence": "Arrow of Chorus essence",
+  "item.minecraft.potion.effect.chorus_essence_1": "Chorus essence",
+  "item.minecraft.splash_potion.effect.chorus_essence_1": "Splash Chorus essence",
+  "item.minecraft.lingering_potion.effect.chorus_essence_1": "Lingering Chorus essence",
+  "item.minecraft.tipped_arrow.effect.chorus_essence_1": "Arrow of Chorus essence",
+
+  "item.minecraft.potion.effect.chorus_energy": "Chorus energy",
+  "item.minecraft.splash_potion.effect.chorus_energy": "Splash Chorus energy",
+  "item.minecraft.lingering_potion.effect.chorus_energy": "Lingering Chorus energy",
+  "item.minecraft.tipped_arrow.effect.chorus_energy": "Arrow of Chorus energy",
+  "item.minecraft.potion.effect.chorus_energy_1": "Chorus energy",
+  "item.minecraft.splash_potion.effect.chorus_energy_1": "Splash Chorus energy",
+  "item.minecraft.lingering_potion.effect.chorus_energy_1": "Lingering Chorus energy",
+  "item.minecraft.tipped_arrow.effect.chorus_energy_1": "Arrow of Chorus energy",
+
+  "effect.better-endgame.displaced": "Displaced",
+  "effect.better-endgame.black_hole": "Black hole"
+}
